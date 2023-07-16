@@ -1,9 +1,10 @@
-# Jeremy Ip
+## Jeremy Ip
 
-
-**JeremyIP/JeremyIP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Under maintenance!
 
 Here are some ideas to get you started:
+
+- 😬 CUHK Year 3 BEng in AI Student
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
